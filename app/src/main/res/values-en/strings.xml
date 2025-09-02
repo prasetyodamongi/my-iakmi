@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyIAKMI</string>
+
+    <!--AuthScreen-->
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="lupa_password">Forgot Password?</string>
+    <string name="email_harus_diisi">Email is required!</string>
+    <string name="password_harus_diisi">Password is required!</string>
+    <string name="bukan_anggota_iakmi_tanya">Not an IAKMI member?</string>
+    <string name="buat_akun_non_anggota">Create Non-Member Account</string>
+    <string name="email_sudah_terdaftar">Email is already registered!</string>
+    <string name="terjadi_kesalahan_tidak_diketahui">An unknown error occurred.</string>
+    <string name="terjadi_kesalahan">"An error occurred: "</string>
+    <string name="email_tidak_valid">Invalid email</string>
+    <string name="password_minimal_6_karakter">Password must be at least 6 characters</string>
+    <string name="password_harus_mengandung_kombinasi_huruf_besar_huruf_kecil_angka_dan_karakter_spesial">Password must contain a combination of uppercase letters, lowercase letters, numbers, and special characters</string>
+    <string name="masukan_email">Enter Email</string>
+    <string name="masukan_username_email">Enter Email/Username</string>
+    <string name="masukan_password">Enter Password</string>
+    <string name="username_atau_password_salah">Incorrect username or password</string>
+    <string name="terjadi_kesalahan_coba_lagi">An error occurred, please try again.</string>
+    <string name="kembali">Back</string>
+    <string name="register">REGISTER</string>
+    <string name="data_pribadi">Personal Data</string>
+    <string name="masukan_nama_lengkap">Enter Full Name</string>
+    <string name="masukan_alamat">Enter Address</string>
+    <string name="pilih_jenis_kelamin">Select Gender</string>
+    <string name="masukan_instansi">Enter Institution</string>
+    <string name="laki_laki">Male</string>
+    <string name="perempuan">Female</string>
+    <string name="data_akun">Account Data</string>
+    <string name="masukan_no_telp_hp_wa">Enter Phone/HP/WA Number</string>
+    <string name="konfirmasi_password">Confirm Password</string>
+    <string name="nama_lengkap_harus_diisi">Full Name is required!</string>
+    <string name="alamat_harus_diisi">Address is required!</string>
+    <string name="no_telepon_harus_diisi">Phone Number is required!</string>
+    <string name="konfirmasi_password_harus_diisi">Confirm Password is required!</string>
+    <string name="password_dan_konfirmasi_password_harus_sama">Password and Confirm Password must match!</string>
+    <string name="sudah_punya_akun">Already have an account?</string>
+    <string name="message1">Please enter your full name for printing the certificate.</string>
+    <string name="message2">Email and No. Tel/HP/Whatsapp must be active.</string>
+    <string name="institusi_harus_diisi">Institution is required!</string>
+
+    <!--ButtonNavigationBar-->
+    <string name="promt_qr_admin">Scan QR Code</string>
+    <string name="camera_permission">Camera Permission required!</string>
+    <string name="pembatalan_scan">Cancelled</string>
+    <string name="ic_desc_item1">Home Icon</string>
+    <string name="title_item1">Home</string>
+    <string name="ic_desc_item2">Settings Icon</string>
+    <string name="title_item2">Settings</string>
+    <string name="ic_desc_item3">ScanQR Icon</string>
+
+    <!--HomeScreen-->
+    <string name="title_topbar_home">Home</string>
+    <string name="event">EVENT</string>
+    <string name="subtitle_event">Click the card to see event details.</string>
+    <string name="news">NEWS</string>
+    <string name="lpp_iakmi">LPP IAKMI</string>
+    <string name="journal">Journal</string>
+    <string name="mentoring">Mentoring</string>
+    <string name="pengda_login">Pengda Login</string>
+
+    <!--SettingScreen-->
+    <string name="title_topbar_setting">Settings</string>
+    <string name="my_account">My Account</string>
+    <string name="member_status">Member Status</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password_reset">Forgot Password</string>
+    <string name="subtitle_password_reset">Click to find out your password.</string>
+    <string name="message_fiture">This Feature is not available!</string>
+    <string name="about">About</string>
+    <string name="subtitle_about">Information about IAKMI.</string>
+    <string name="help">Help</string>
+    <string name="subtitle_help">Guides and FAQs about MyIAKMI.</string>
+    <string name="terms_and_condition">Terms and Conditions</string>
+    <string name="subtitle_tc">Everything you need to know.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="subtitle_pp">Important for us.</string>
+    <string name="other">Other</string>
+    <string name="language">Language</string>
+    <string name="subtitle_language">Change MyIAKMI application language.</string>
+    <string name="logout">Log out</string>
+    <string name="subtitle_logout">Log out of this account.</string>
+
+    <!--DetailScreen-->
+    <string name="detail_event">Details Event</string>
+    <string name="daftar_sekarang">Register</string>
+    <string name="scan_qr_presensi">Scan Attendance QR Code</string>
+    <string name="data_registrasi">Registration Data</string>
+    <string name="jenis_peserta">Participant Type</string>
+    <string name="status_registrasi">Registration Status</string>
+    <string name="status_pembayaran">Payment Status</string>
+    <string name="status_keanggotaan">Membership Status</string>
+    <string name="status_abstrak">Abstract Status</string>
+    <string name="keterangan">Description</string>
+
+    <!--Dialog-->
+    <string name="confirmation">Confirmation</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_language">Select Language</string>
+    <string name="teks_notifikasi_qr_scanner">QR Code Scanner and Attendance are available in each Event Detail!</string>
+
+    <!--DialogRegistrasiKehadiran-->
+    <string name="terkirim">%1$s sent!</string>
+    <string name="gagal_terkirim">Failed, please try again!</string>
+    <string name="title_dialog_aksi">Action</string>
+    <string name="registrasi_ulang">Re-registration</string>
+    <string name="registrasi_kembali">Re-registration</string>
+    <string name="presensi">Attendance</string>
+
+    <!--CardError-->
+    <string name="ic_peringatan">Error Icon</string>
+    <string name="error_memuat_data">Failed to load Event Data, please try again!</string>
+    <string name="muat_ulang">Reload</string>
+    <string name="gagal_memuat_detail_acara">Failed to load detail event!</string>
+
+    <!--DialogResetPassword-->
+    <string name="send">Send</string>
+    <string name="reset_pass_message">Enter the email used during registration, the password will be sent to that email.</string>
+    <string name="reset_pass_message_admin">Admin, please contact the developer to change the password!</string>
+    <string name="silahkan_cek_email_anda">Please check your email!</string>
+    <string name="gagal_mengirim_email">Failed to send email!</string>
+    <string name="status_anggota">Membership Status</string>
+    <string name="anggota_iakmi">IAKMI Member</string>
+    <string name="bukan_anggota_iakmi">Non IAKMI Member</string>
+    <string name="harus_memilih_status_anggota">You must select a membership status!</string>
+
+</resources>
